@@ -1,4 +1,4 @@
-package top.heldig.bounce_dash_app
+package com.heldiglab.bouncedash
 
 import io.flutter.embedding.android.FlutterActivity
 
